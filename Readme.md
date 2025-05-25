@@ -52,7 +52,7 @@ email_reply_agent/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/BavyaSree-C/email_reply_agent.git
+git clone https://github.com/BavyaSree-C/Automated-email-reply-agent.git
 cd email_reply_agent
 ```
 
@@ -133,7 +133,7 @@ MIT License – Feel free to use, modify, and distribute.
 
 ## 🙋‍♂️ Author
 
-Developed by \[Your Name].
+Developed by \BAVYA SREE C.
 If this helps you, give it a ⭐ on GitHub!
 
 ---
